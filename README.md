@@ -1,7 +1,7 @@
 # OpenCV-Face-Recognition
 Using LBPH (Local Binary Pattern Histogram) Face Recognizer Algorithm based on OpenCV to Recognise Faces and detect (Haarcascade for detection) them, on trained data .
 
-#Getting Started
+# Getting Started
 
 In order to use this project, you'll need to install the required python packages: pip3 install -r requirements.txt
 
